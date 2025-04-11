@@ -1,3 +1,7 @@
+### Student Name: Bạch Đức Cảnh  
+### Student ID: 22110012  
+### Project: Simple Alarm Clock
+
 (Deprecated) TO-DO Notes - Code for 5.1-5.3 Testing Codelab
 ============================================================================
 
